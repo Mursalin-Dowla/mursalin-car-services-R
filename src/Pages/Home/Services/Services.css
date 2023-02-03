@@ -16,15 +16,3 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
-.text-primary{
-    color:blue;
-}
-.text-center{
-    text-align: center;
-}
-.mt-5{
-    margin-top: 25px;
-}
-.container{
-    margin: 0 20px;
-}
