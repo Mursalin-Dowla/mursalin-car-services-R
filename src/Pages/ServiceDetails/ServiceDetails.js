@@ -4,7 +4,7 @@ import { useParams } from 'react-router-dom';
 const ServiceDetails = () => {
     const {serviceId} = useParams();
     return (
-        <div>
+        <div className='min-vh-100'>
             <h1>Service Details:{serviceId}</h1>
         </div>
     );
